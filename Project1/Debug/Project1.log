@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MyForm.cpp
+D:\New folder\RTK\school\ood\OOP\Visual Studio 2015\Projects\MagicSquare\Project1\MyForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+D:\New folder\RTK\school\ood\OOP\Visual Studio 2015\Projects\MagicSquare\Project1\MyForm.h(405): warning C4715: 'Project1::MyForm::notSameCheck': not all control paths return a value
+D:\New folder\RTK\school\ood\OOP\Visual Studio 2015\Projects\MagicSquare\Project1\MyForm.h(433): warning C4715: 'Project1::MyForm::singleCheck': not all control paths return a value
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project1.vcxproj -> D:\New folder\RTK\school\ood\OOP\Visual Studio 2015\Projects\MagicSquare\Debug\MagicSquare.exe
