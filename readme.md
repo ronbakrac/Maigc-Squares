@@ -5,3 +5,5 @@ This program is a visual application created in C++/CLI. The goal of the Magic S
 
 # How To Run
 To run this program, you must have Microsoft .NET framework 4.5.2. Youcan simply run the .exe in the debug folder or you can build the application yourself through Visual Studio.
+
+<img src="image.png">
